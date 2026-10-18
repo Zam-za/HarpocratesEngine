@@ -7,8 +7,5 @@
 6) Identify gaps in CI cloud services
 6) address resource allocation issues and path frequency 
 
-
-<img width="2720" height="2400" alt="image" src="https://github.com/user-attachments/assets/fc976a04-2e9b-4620-b6b4-45ff36a47c55" />
-
 # INFRASTRUCTURE ZONE 
 
